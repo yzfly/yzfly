@@ -1,11 +1,11 @@
 ### Hi, I'm YZ Fly 👋
 
-[![Website Badge](https://img.shields.io/badge/-yzliu-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.liuyuanzhong.com)](https://www.liuyuanzhong.com)
-[![Gmail Badge](https://img.shields.io/badge/-yzliu.me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yzliu.me@gmail.com)](mailto:yzliu.me@gmail.com)
-[![BiliBili Badge](https://img.shields.io/badge/-zphyix-47CCCC?style=flat&logo=bilibili&logoColor=white&link=https://space.bilibili.com/471287475)](https://space.bilibili.com/471287475)
+[![Website Badge](https://img.shields.io/badge/-Blog-9b5de5?style=flat&logo=Google-Chrome&logoColor=white&link=https://blog.liuyuanzhong.com)](https://www.liuyuanzhong.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-f15bb5?style=flat&logo=Gmail&logoColor=white&link=mailto:yzliu.me@gmail.com)](mailto:yzliu.me@gmail.com)
+[![BiliBili Badge](https://img.shields.io/badge/-BiliBili-00bbf9?style=flat&logo=bilibili&logoColor=white&link=https://space.bilibili.com/471287475)](https://space.bilibili.com/471287475)
+[![Scholar Badge](https://img.shields.io/badge/-GoogleScholar-00f5d4?style=flat&logo=googlescholar&logoColor=white&link=https://scholar.google.com.hk/citations?user=NYa8QmAAAAAJ&hl=zh-CN)](https://scholar.google.com.hk/citations?user=NYa8QmAAAAAJ&hl=zh-CN)
 
-
-Welcome to my profile! I'm a deep learning researcher,  part-time science fiction writer and full-time life voyager. I am currently a graduate student in Wuhan University. Thanks for visiting and I'd love to connect!
+Welcome to my profile! I'm a deep learning researcher,  part-time science fiction writer and full-time life voyager. I am a graduate student in Wuhan University. Thanks for visiting and I'd love to connect!
 
 ⭐ Projects that I'm working on:
 - [HAVPRLab_Action](https://github.com/yzfly/HAVPRLab_Action)
@@ -24,7 +24,7 @@ Welcome to my profile! I'm a deep learning researcher,  part-time science fictio
 <br>
 <br>
 
-🏆  Github Stats
+🏆  Github Stats:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yzfly&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 

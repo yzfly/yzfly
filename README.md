@@ -5,12 +5,13 @@
 [![BiliBili Badge](https://img.shields.io/badge/-BiliBili-00bbf9?style=flat&logo=bilibili&logoColor=white&link=https://space.bilibili.com/471287475)](https://space.bilibili.com/471287475)
 [![Scholar Badge](https://img.shields.io/badge/-GoogleScholar-00f5d4?style=flat&logo=googlescholar&logoColor=white&link=https://scholar.google.com.hk/citations?user=NYa8QmAAAAAJ&hl=zh-CN)](https://scholar.google.com.hk/citations?user=NYa8QmAAAAAJ&hl=zh-CN)
 
-Welcome to my profile! I'm a deep learning researcher,  part-time science fiction writer and full-time life voyager. I am a graduate student in Wuhan University. Thanks for visiting and I'd love to connect!
+Welcome to my profile! I'm a deep learning researcher,  part-time science fiction writer and full-time life voyager. I am a graduate student from Wuhan University and interested in deeplearning-based action recognition research. Thanks for visiting and I'd love to connect!
 
 ⭐ Projects that I'm working on:
 - [HAVPRLab_Action](https://github.com/yzfly/HAVPRLab_Action)
+- [TCM](https://github.com/yzfly/TCM)
 - [RNN_LSTM_GRU_PyTorch](https://github.com/yzfly/RNN_LSTM_GRU_PyTorch)
-- [Sreg3](https://github.com/yzfly/Sreg3)
+- [SimpleTreeHeight](https://github.com/yzfly/SimpleTreeHeight)
 
 
 ⚡ Languages and Tools:

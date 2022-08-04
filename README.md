@@ -1,5 +1,5 @@
 ### Hi, I'm YZ Fly 👋
-[![Website Badge](https://img.shields.io/badge/-Blog-9b5de5?style=flat&logo=Google-Chrome&logoColor=white&link=https://blog.liuyuanzhong.com)](https://www.liuyuanzhong.com)
+[![Website Badge](https://img.shields.io/badge/-Blog-9b5de5?style=flat&logo=Google-Chrome&logoColor=white&link=https://blog.liuyuanzhong.com)](https://blog.liuyuanzhong.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-f15bb5?style=flat&logo=Gmail&logoColor=white&link=mailto:yzliu.me@gmail.com)](mailto:yzliu.me@gmail.com)
 [![BiliBili Badge](https://img.shields.io/badge/-BiliBili-00bbf9?style=flat&logo=bilibili&logoColor=white&link=https://space.bilibili.com/471287475)](https://space.bilibili.com/471287475)
 [![Scholar Badge](https://img.shields.io/badge/-GoogleScholar-00f5d4?style=flat&logo=googlescholar&logoColor=white&link=https://scholar.google.com.hk/citations?user=NYa8QmAAAAAJ&hl=zh-CN)](https://scholar.google.com.hk/citations?user=NYa8QmAAAAAJ&hl=zh-CN)

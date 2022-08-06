@@ -14,7 +14,6 @@ Welcome to my profile! I'm a deep learning researcher,  part-time science fictio
 - [SimpleTreeHeight](https://github.com/yzfly/SimpleTreeHeight)
 
 
-
 ⚡ Languages and Tools:
 
 <img align="left" alt="Linux" width="26px" src="./figs/linux.svg" style="padding-right:10px;" />
@@ -32,6 +31,9 @@ Welcome to my profile! I'm a deep learning researcher,  part-time science fictio
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yzfly&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
+<br><br><br><br><br><br><br><br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yzfly&left_color=red&right_color=green)
 
 
 <!--

@@ -4,6 +4,7 @@ Welcome to my profile! I'm a deep learning researcher,  part-time science fictio
 
 ⭐ Projects that I'm working on:
 - [🤖 ChatGPT 中文指南 🤖](https://github.com/yzfly/awesome-chatgpt-zh)
+- [LangGPT](https://github.com/yzfly/LangGPT)
 - [中文 prompt 精选🔥](https://github.com/yzfly/wonderful-prompts)
 - [HAVPRLab_Action](https://github.com/yzfly/HAVPRLab_Action)
 - [TCM](https://github.com/yzfly/TCM)

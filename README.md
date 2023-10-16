@@ -5,12 +5,12 @@ Welcome to my profile! I'm a deep learning researcher,  part-time science fictio
 ⭐ Projects that I'm working on:
 |Projects|Stars|Introduction|备注|
 |---|---|---|---|
-| [🤖 ChatGPT 中文指南](https://github.com/yzfly/awesome-chatgpt-zh) | ![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-chatgpt-zh) |Curated ChatGPT Resource List| 更好的使用 chatGPT 让你的生产力 up up up! 🚀 |
+| [🤖 ChatGPT 中文指南](https://github.com/yzfly/awesome-chatgpt-zh) | ![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-chatgpt-zh) |Curated ChatGPT Resource List| 更好的使用 chatGPT 🚀 |
 | [LangGPT](https://github.com/yzfly/LangGPT) | ![GitHub Repo stars](https://badgen.net/github/stars/yzfly/LangGPT) |Language of GPT, Structured Prompts| LangGPT 结构化提示词🔥 |
 |[中文 prompt 精选🔥](https://github.com/yzfly/wonderful-prompts)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/wonderful-prompts)|high-quality Chinese prompts|中文精选提示词|
 |[🧠 Awesome Claude Prompts](https://github.com/yzfly/awesome-claude-prompts)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-claude-prompts)|high-quality Claude prompts| Claude 精选提示词|
 |[Awesome-Multimodal-Prompts](https://github.com/yzfly/Awesome-Multimodal-Prompts)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/Awesome-Multimodal-Prompts)|Awesome Multimodal Prompts| 多模态提示词|
-|[AutoNetGen](https://github.com/EmbraceAGI/AutoNetGen)|![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/AutoNetGen)|AI designs AI, where magic creates magic✨.|让 AI 设计 AI，让大模型帮助小模型进化|
+|[AutoNetGen](https://github.com/EmbraceAGI/AutoNetGen)|![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/AutoNetGen)|AI designs AI ✨.|让大模型帮助小模型进化|
 
 
 ⚡ Languages and Tools:

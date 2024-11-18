@@ -10,7 +10,7 @@ Welcome to my profile! I'm a deep learning researcher, Prompt Engineer, part-tim
 |[中文 prompt 精选🔥](https://github.com/yzfly/wonderful-prompts)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/wonderful-prompts)|high-quality Chinese prompts|中文精选提示词|
 |[🧠 Awesome Claude Prompts](https://github.com/yzfly/awesome-claude-prompts)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-claude-prompts)|high-quality Claude prompts| Claude 精选提示词|
 |[Awesome-Multimodal-Prompts](https://github.com/yzfly/Awesome-Multimodal-Prompts)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/Awesome-Multimodal-Prompts)|Awesome Multimodal Prompts| 多模态提示词|
-|[AutoNetGen](https://github.com/EmbraceAGI/AutoNetGen)|![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/AutoNetGen)|AI designs AI ✨.|让大模型帮助小模型进化|
+|[awesome-llama-prompts](https://github.com/langgptai/awesome-llama-prompts)|![GitHub Repo stars](https://badgen.net/github/stars/langgptai/awesome-llama-prompts)|Llama prompts ✨.|Llama 精选提示词|
 
 
 ⚡ Languages and Tools:
